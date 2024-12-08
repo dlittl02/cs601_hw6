@@ -1,0 +1,40 @@
+.item-detail {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .item-detail h2 {
+    margin-bottom: 20px;
+  }
+  
+  .item-detail p {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .item-detail a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #cd853f;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .item-detail a:hover {
+    background-color: #cd853f;
+  }
+
+  
+.detail-image {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  

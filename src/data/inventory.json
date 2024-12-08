@@ -1,0 +1,94 @@
+[
+    {
+      "sku": "100-01",
+      "name": "Milk",
+      "qty": 50,
+      "price": 3.50,
+      "category": "Dairy",
+      "description": "A gallon of milk.",
+      "image": "/milk.jpg"
+    },
+    {
+      "sku": "100-02",
+      "name": "Bread",
+      "qty": 35,
+      "price": 3.00,
+      "category": "Bakery",
+      "description": "One loaf of sourdough bread.",
+      "image": "/bread.jpg"
+    },
+    {
+      "sku": "100-03",
+      "name": "Eggs",
+      "qty": 80,
+      "price": 4.00,
+      "category": "Poultry",
+      "description": "One dozen of eggs.",
+      "image": "/eggs.jpg"
+    },
+    {
+      "sku": "100-04",
+      "name": "Cookies",
+      "qty": 20,
+      "price": 1.50,
+      "category": "Dessert",
+      "description": "A 12 pack of chocolate chip cookies.",
+      "image": "/cookies.jpg"
+    },
+    {
+      "sku": "100-05",
+      "name": "Carrots",
+      "qty": 45,
+      "price": 2.00,
+      "category": "Vegetable",
+      "description": "Bag of fresh baby carrots.",
+      "image": "/carrots.jpg"
+    },
+    {
+      "sku": "100-06",
+      "name": "Broccoli",
+      "qty": 45,
+      "price": 1.00,
+      "category": "Vegetable",
+      "description": "One bunch of broccoli.",
+      "image": "/broccoli.jpg"
+    },
+    {
+      "sku": "100-07",
+      "name": "Water",
+      "qty": 45,
+      "price": 4.00,
+      "category": "Drinks",
+      "description": "24 pack of bottled water.",
+      "image": "/water.jpg"
+    },
+    {
+      "sku": "100-08",
+      "name": "Bagels",
+      "qty": 10,
+      "price": 4.00,
+      "category": "Bakery",
+      "description": "Six pack of bagels",
+      "image": "/bagels.jpg"
+    },
+    {
+      "sku": "100-09",
+      "name": "Lettuce",
+      "qty": 25,
+      "price": 2.50,
+      "category": "Vegetable",
+      "description": "One head of lettuce",
+      "image": "/lettuce.jpg"
+    },
+    {
+      "sku": "100-10",
+      "name": "Apple",
+      "qty": 45,
+      "price": 0.50,
+      "category": "Fruit",
+      "description": "Fresh green apple",
+      "image": "/apple.jpg"
+    }
+
+  ]
+  
